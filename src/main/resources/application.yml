@@ -1,0 +1,10 @@
+spring.main:
+    web-application-type: none
+    banner-mode: 'off'
+    log-startup-info: false
+oidc:
+    apiKey: 'vg-app'
+    apiSecret: 'HpcJB1VlPTQ8cIivFbduTdv0mFmGv1w6'
+    callbackurl: 'http://localhost:8090/aro-dashboard'
+    baseurl: 'http://localhost:8080'
+    realm: 'aro-realm'

@@ -5,6 +5,6 @@ spring.main:
 oidc:
     apiKey: 'vg-app'
     apiSecret: 'HpcJB1VlPTQ8cIivFbduTdv0mFmGv1w6'
-    callbackurl: 'http://localhost:8090/aro-dashboard'
+    callbackurl: 'http://localhost:8090/openid-showcase'
     baseurl: 'http://localhost:8080'
     realm: 'aro-realm'

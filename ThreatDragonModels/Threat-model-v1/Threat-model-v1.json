@@ -5,14 +5,7 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [
-      {
-        "title": "web-interface",
-        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
-        "diagramType": "STRIDE",
-        "id": 0
-      }
-    ],
+    "diagrams": [],
     "reviewer": "vishal"
   }
 }
